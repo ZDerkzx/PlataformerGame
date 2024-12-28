@@ -15,6 +15,7 @@ La base de un plataformero hecho en Lua con el framework Solar2D. Puedes usar es
 - Movimiento del personaje.
 - Detección de colisiones.
 - Diseño simple de niveles.
+- Sistema de enemigo.
 
 ## Instalación
 1. Clona el repositorio:
